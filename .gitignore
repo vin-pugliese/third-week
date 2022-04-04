@@ -2,6 +2,7 @@
 .idea/
 target
 
+src/main/resources/login.properties
 
 
 # Compiled class file
