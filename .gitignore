@@ -3,7 +3,6 @@
 target
 
 src/main/resources/login.properties
-
 src/main/resources/hibernate.cfg.xml
 
 # Compiled class file
