@@ -1,15 +1,6 @@
 package com.corso.java.hibernate;
 
 
-
-/*
-*uno studente può avere 1 dipartimenti
-*un dipartimento può avere n studente
-*
-*
-*
-*
-* */
 import java.util.Date;
 
 public class Event {
